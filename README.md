@@ -5,16 +5,16 @@
 ### Hi, I'm Sandeep! 👋
 An accomplished engineering post graduate having 8+ years of hands-on IT experience in Java and J2EE Technologies. Strongly self-motivated, analyst, enthusiastic & result oriented, equally effective working independently & collaborating in a team effort. 
 A team Player proven development abilities across multiple teams.
-Worked on more than 20+ projects that I have completed till now in the Development (Backend, and Full Stack) with avaialble Advanced Framework.
+Worked on more than 20+ projects that I have completed till now in the Development (Backend, and Full Stack) with available Advanced Framework.
 
 ## My Skills 🎓
 - Primary skill is JAVA Backend (level: Advance)
-    - Frameworks: Spring, Springboot, Spring Cloud, Hibernate, JPA
+    - Frameworks: Spring, Spring boot, Spring Cloud, Hibernate, JPA
     - Database: MySQL
-- Additional Skills (level: Intermideate)
+- Additional Skills (level: Intermediate)
     - Aws 
     - K8s 
-- Android Application Developer(level: Beginer)
+- Android Application Developer (level: Beginner)
     - Flutter & Dart
 
 <p align="left">
