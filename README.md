@@ -3,7 +3,7 @@
 # <p align="center"> 🙏Namaste🙏 
 
 ### Hi, I'm Sandeep! 👋
-An accomplished engineering post graduate having 8+ years of hands-on IT experience in Java and J2EE Technologies. Strongly self-motivated, analyst, enthusiastic & result oriented, equally effective working independently & collaborating in a team effort. 
+An accomplished engineering post graduate having 10+ years of hands-on IT experience in Java and J2EE Technologies. Strongly self-motivated, analyst, enthusiastic & result oriented, equally effective working independently & collaborating in a team effort. 
 A team Player proven development abilities across multiple teams.
 Worked on more than 20+ projects that I have completed till now in the Development (Backend, and Full Stack) with available Advanced Framework.
 
